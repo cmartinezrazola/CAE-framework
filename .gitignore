@@ -1,3 +1,11 @@
+# Specific macOS
+.DS_Store
+
+# Specific to this project
+*~
+*.ppt*
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
